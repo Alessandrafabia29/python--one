@@ -13,5 +13,5 @@ if prestacao <= prestacaoMinima:
 else:
     print('EMPRÉSTIMO \033[1;31m NEGADO. \033[m')
     print('Porque a prestação mínima não atingiu a requisição bancária.')
-
     
+input('\nPressione ENTER para sair...')
